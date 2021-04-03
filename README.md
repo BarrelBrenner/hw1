@@ -1,2 +1,2 @@
 # hw1
-Tutorial Bootcamp
+Tutorial Boot Camp -- I made adjustments to the links for search-end-optimization since it did not have an ID tag for it in line 29, also change line 11 to say "header". Only changes i could find because i'm not really confident in creating websites and didn't want to break what was shown too much to make it unrecognizable. also it's named index 2.html instead of index.html because i botched it first go round and decide to cut my losses and start over, i wanted name to reflect that change instead of renaming it back to index.html. Thank you for your time and take care.
