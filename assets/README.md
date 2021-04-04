@@ -11,4 +11,4 @@ changed lines 31, 38, 45, 55, 62 & 69 to say "section" & lines 37, 45, 51, 61, 6
 
 added apostrophes on Calibri on lines 31, 85, 150 & 159 in style.css file.
 
-Only changes i could find because i'm not really confident in creating websites and didn't want to break what was shown too much to make it unrecognizable. also it's named index 2.html instead of index.html because i botched it first go round and decide to cut my losses and start over, i wanted name to reflect that change instead of renaming it back to index.html. Thank you for your time and take care.
+Only changes I could find because I'm not really confident in creating websites and didn't want to break what was shown too much to make it unrecognizable. also it's named Index2.html instead of Index.html because i botched it first go round and decide to cut my losses and start over, I wanted name to reflect that change instead of renaming it back to index.html. Thank you for your time and take care.
